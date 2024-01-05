@@ -12,8 +12,8 @@ Funcionalidades Principais
 - HTML: Para a estruturação da página e marcação de elementos.
 - CSS: Para o design e estilo da interface do usuário.
 
-# Como Usar
-1. Clone este repositório: git clone https://github.com/seu-usuario/spotify-clone.git
+# Como Usar 
+1. Clone este repositório: git clone https://github.com/felipereis068/spotify-clone.git
 2. Abra o arquivo index.html no seu navegador web.
 
 # API Spotify
