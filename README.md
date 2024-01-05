@@ -1,49 +1,21 @@
+# Netflix Clone
+
 # Descrição
-Este é um projeto de clone do Spotify desenvolvido utilizando JavaScript, HTML e CSS. O objetivo principal é recriar a interface do usuário do Spotify, proporcionando uma experiência visual semelhante à plataforma original.
+Este é um projeto de clone da Netflix desenvolvido com JavaScript, HTML e CSS. O principal objetivo é recriar a interface do usuário da Netflix, proporcionando uma experiência visual semelhante à plataforma original de streaming de vídeos.
 
 Funcionalidades Principais
-- Reprodução de Música: Permite reproduzir e pausar músicas, avançar e retroceder faixas.
-- Lista de Reprodução: Exibe a lista de músicas com informações detalhadas, como título, artista e capa do álbum.
-- Controles de Volume: Oferece controles de volume para ajustar o nível de áudio.
-- Design Responsivo: O layout é projetado para funcionar bem em diferentes dispositivos e tamanhos de tela.
+- Catálogo de Filmes e Séries: Apresenta uma variedade de títulos organizados em categorias, como Ação, Drama, Comédia, etc.
+- Reprodução de Vídeos: Permite a reprodução de trailers ou trechos de vídeos, simulando a experiência de navegação na Netflix.
+- Página de Detalhes: Ao clicar em um título, exibe informações detalhadas, como sinopse, elenco e avaliações.
+- Design Responsivo: O layout é projetado para se adaptar a diferentes dispositivos e tamanhos de tela.
+- Tecnologias Utilizadas
+- JavaScript: Responsável pela lógica de exibição de vídeos e interação com a API (se aplicável).
+- HTML: Utilizado para a estruturação da página e marcação de elementos.
+- CSS: Responsável pelo design e estilo da interface do usuário.
 
-# Linguagens Utilizadas 
-- JavaScript: Para a lógica de reprodução de música e interação com a API.
-- HTML: Para a estruturação da página e marcação de elementos.
-- CSS: Para o design e estilo da interface do usuário.
+# Como Usar
+Clone este repositório: git clone https://github.com/felipereis068/netflixclone.git
+Abra o arquivo index.html no seu navegador web.
 
-# Como Usar 
-1. Clone este repositório: git clone https://github.com/felipereis068/spotify-clone.git
-2. Abra o arquivo index.html no seu navegador web.
-
-# API Spotify
-Este projeto utiliza a API do Spotify para obter informações sobre músicas, artistas e listas de reprodução. Certifique-se de ter as credenciais necessárias para acessar a API.
-
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
+# API 
+A API ultilizada foi a TMDB (The Movie Database) para listar os filmes e suas repectivas categorias.
