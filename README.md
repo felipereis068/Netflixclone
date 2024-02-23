@@ -19,3 +19,6 @@ Abra o arquivo index.html no seu navegador web.
 
 # API 
 A API ultilizada foi a TMDB (The Movie Database) para listar os filmes e suas repectivas categorias.
+![9](https://github.com/felipereis068/netflixclone/assets/111073491/82a4443d-2161-43f6-89cc-18be312a63d6)
+![10](https://github.com/felipereis068/netflixclone/assets/111073491/ab5bdd19-3da9-4f92-90df-321508da643a)
+![11](https://github.com/felipereis068/netflixclone/assets/111073491/a2753faa-3274-4be4-9059-b1148f1b9ed5)
